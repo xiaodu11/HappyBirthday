@@ -126,9 +126,9 @@ body {
   position: absolute;
   width: 80px;
   top: -70px;
-  left: 49%;
+  left: 30%;
   /* 等比例扩大图片到2倍 */
-  transform: scale(1.1);
+  transform: scale(1.5);
 }
 
 .baloons img {
